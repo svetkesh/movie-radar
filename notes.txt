@@ -1,0 +1,4 @@
+~/Documents/projects/sites/movie-radar$ python3 -m venv mradar
+$ source mradar/bin/activate
+
+/home/arkadii/github/movie-radar
